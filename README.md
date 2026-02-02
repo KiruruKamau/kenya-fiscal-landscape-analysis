@@ -9,7 +9,7 @@ regional benchmarks like the East African Community (EAC) 60% Debt-to-GDP thresh
 ## Key Insights
  1. Rising Servicing Costs: Interest Payments Acceleration and high cost of domestic debt servicing.
 
-    ![Effective Interest Rate: Domestic vs External Borrowing](Images/interest rate.png)
+    ![Effective Interest Rate: Domestic vs External Borrowing](Images/interest_rate.png)
     
     
  3. Sustainability Benchmarking: Tracking the Debt to GDP ratio from 2000 to 2021
