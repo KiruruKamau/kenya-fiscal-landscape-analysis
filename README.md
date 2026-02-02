@@ -11,9 +11,11 @@ regional benchmarks like the East African Community (EAC) 60% Debt-to-GDP thresh
 
     ![Effective Interest Rate: Domestic vs External Borrowing](Images/interest rate.png)
     
- 2. Sustainability Benchmarking: Tracking the Debt to GDP ratio from 2000 to 2021
+    
+ 3. Sustainability Benchmarking: Tracking the Debt to GDP ratio from 2000 to 2021
 
     ![Debt-to-GDP Ratio](Images/debt_to_gdp (1).png)
+    
 
 ## Tech Stack
  Python
